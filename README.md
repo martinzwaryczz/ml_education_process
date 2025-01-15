@@ -12,4 +12,5 @@ En caso de que algún IT Recluter, personal de RRHH, usuario interesado en apren
 * Aprender en la universidad algebra y geometría analítica, análisis matemático I, probabilidad y estadística. Cabe aclarar que me queda pendiente análisis matemático II para así entender que es el descenso de gradiente
 
 Con esta base iré realizando este repositorio, tendrá tanto código como teoría principalmente orientada a la matemática requerida que no es poca, pero es super interesante.
+
 Trataré de ser lo más profesional posible con el vocabulario, pero el perfeccionismo es enemigo de progreso por lo que inevitablemente en ciertas ocasiones es probable que no haya usado las palabras correctas en ciertas explicaciones de ciertos temas, sin embargo los conceptos están.
