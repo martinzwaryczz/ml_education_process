@@ -13,12 +13,12 @@
 6. Cargar el dataset *"tips"* y realizar los siguientes gráficos categóricos:
                       - stripplot
                       - swarmplot
-					  - boxplot
+                      - boxplot
 					  - violinplot
 					  - pointplot
 					  - barplot
     A través de comentarios evaluar su comportamiento y si es posible introducir conceptos estadísticos, **ver vídeo: https://www.youtube.com/watch?v=ncfPK06nKA8&t=1240s para profundizar sobre lo ya hecho**.
-7. Cargar el data set *flights* y realizar los siguientes gráficos de distribución:
+8. Cargar el data set *flights* y realizar los siguientes gráficos de distribución:
                       - histplot
                       - kdeplot
                       - ecdfplot
