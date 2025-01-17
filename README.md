@@ -14,3 +14,6 @@ En caso de que algún IT Recluter, personal de RRHH, usuario interesado en apren
 Con esta base iré realizando este repositorio, tendrá tanto código como teoría principalmente orientada a la matemática requerida que no es poca, pero es super interesante.
 
 Trataré de ser lo más profesional posible con el vocabulario, pero el perfeccionismo es enemigo de progreso por lo que inevitablemente en ciertas ocasiones es probable que no haya usado las palabras correctas en ciertas explicaciones de ciertos temas, sin embargo los conceptos están.
+![image](https://github.com/user-attachments/assets/d6db6347-3a8d-4bc2-918d-98b9ecb96683)
+
+Una vez terminados las dos guías introductorias a Python y los ejercicios que combinan librerias útiles realizaré los siguientes ejercicios de ML: https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397
