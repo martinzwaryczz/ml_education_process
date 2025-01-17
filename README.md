@@ -4,7 +4,7 @@ El objetivo de este repositorio es subir todos mis programas y proyectos relacio
 
 Como estudiante universitario del tercer año de la carrera licenciatura en informática de la [Universidad Nacional del Oeste *(UNO)*]([url](https://uno.edu.ar/)[/url]) y técnico en informática puedo decir que cuento con conocimientos de programación básicos, un buen pensamiento lógico resolutivo dadas las materias de matemática. 
 
-En caso de que algún IT Recluter, personal de RRHH, usuario interesado en aprender sobre los temas del repositorio, o quien sea este interesado en tomar este material es importante que sea que **no es un libro**, es un proceso educativo ordenado de la mejor manera posible, las áreas a aprender son muy complejas y es muy fácil perderse, es por esto que traté de armar la mejor ruta de aprendizaje posible e hice lo siguiente:
+En caso de que algún IT Recluter, personal de RRHH, usuario interesado en aprender sobre los temas del repositorio, o quien sea este interesado en tomar este material es importante que sepa que **no es un libro**, es un proceso educativo ordenado de la mejor manera posible, las áreas a aprender son muy complejas y es muy fácil perderse, es por esto que traté de armar la mejor ruta de aprendizaje posible e hice lo siguiente:
 
 * Formar una buena base de pensamiento lógico en la facultad.
 * Aprender a programar, no programación.
