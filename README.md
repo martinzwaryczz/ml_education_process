@@ -23,3 +23,4 @@ El uso de los for y las listas por compresión ameritan un apunte, son temas que
 El manejo de diccionarios no tiene nada que ver con el de Java, no solo hay que “sacarse el chip Java” sino que aprender a imprimirlos y manipularlos a gusto.
 Las funciones lambda ameritan diapositivas explicativas, hice varias pero use demasiado chatgtp para mi gusto, y si bien el planteamiento lógico mio era bastante bueno no llega a estar a la altura de lo que me gustaría hacer en un tiempo razonable, seria una buena idea crear una carpeta exclusiva para analizar funciones lambda ya que son más que útiles.
 Me quedaria pendiente saber cuando usar o no funciones lambda, sin embargo en este repositorio no esta orientado a eso.
+Guardaré estás últimas cosas en documentacion_python
