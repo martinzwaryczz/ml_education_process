@@ -17,10 +17,9 @@ Trataré de ser lo más profesional posible con el vocabulario, pero el perfecci
 ![image](https://github.com/user-attachments/assets/d6db6347-3a8d-4bc2-918d-98b9ecb96683)
 
 Una vez terminados las dos guías introductorias a Python y los ejercicios que combinan librerias útiles realizaré los siguientes ejercicios de ML: https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397
-# Temas a revisar *(18/01/2025)*
+# Temas a revisar *(19/01/2025)*
 
-El uso de los for y las listas por compresión ameritan un apunte, son temas que no son cómo en otros lenguajes.
-El manejo de diccionarios no tiene nada que ver con el de Java, no solo hay que “sacarse el chip Java” sino que aprender a imprimirlos y manipularlos a gusto.
-Las funciones lambda ameritan diapositivas explicativas, hice varias pero use demasiado chatgtp para mi gusto, y si bien el planteamiento lógico mio era bastante bueno no llega a estar a la altura de lo que me gustaría hacer en un tiempo razonable, seria una buena idea crear una carpeta exclusiva para analizar funciones lambda ya que son más que útiles.
-Me quedaria pendiente saber cuando usar o no funciones lambda, sin embargo en este repositorio no esta orientado a eso.
-Guardaré estás últimas cosas en documentacion_python
+Ver como organizar programas con un enfoque orientado a objetos.
+Luego ya empezar a hacer proyectos con ML.
+En caso de que salgan de manera eficiente sumar una carpeta *matematica_orientada_a_ml*, a fin de cuentas ya tendríamos suficiente dominio de Python para empezar a realizar algunos proyectos de ML.
+No olvidar ver como tratar set de datos no perfectos, eso me dio problemas en Abtio porque practicamente ni contemple el tema.
