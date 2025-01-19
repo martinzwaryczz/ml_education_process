@@ -31,3 +31,8 @@ for x in "cadena":
 cadena = "cadena"
 for i in range(len(cadena) - 1, -1, -1):
     print(i)
+
+# Compresión
+lista_numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista_pares = [numero_par for numero_par in lista_numeros if numero_par%2 == 0]
+print(lista_pares)
