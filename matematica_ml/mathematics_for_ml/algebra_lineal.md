@@ -14,6 +14,8 @@ Estos pueden tener un ***R*** dimensión, por ejemplo:
                                                ![image](https://github.com/user-attachments/assets/b2da0754-194b-4d64-b373-0115968be6a4)
                                                
 Si un vector es del mismo ***R*** se pueden sumar, restar, multiplicar cada elemento por un escalar *(pero no al revés)* y otras operaciones más que no se contemplan de momento. ***Si luego se ven modificaré con ejemplos***
+
+
 Considero que ya se hacer estas operaciones, de hecho cualquier persona de manera mecánica las puede hacer, no es el objetivo contemplar el como se hacen estas operaciones sino entender su vista e interpretación geométrica.
 
 
