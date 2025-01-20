@@ -31,6 +31,12 @@ Geometricamente hablando en R2 podemos decir que se ve de la siguiente manera:
 Al ser un espacio bidimensional debemos tener un punto de anclaje de donde saldrá nuestro vector, el primero nos dirá que tanto nos tenemos que mover a lo largo del eje X, el segundo del Y, y hacia ahí irá el vector, siendo su distancia su modulo,
 siendo su modulo la raíz cuadrada de la sumatoria de sus elementos, cada uno de estos estando al cuadrado.
 
+Veniamos hablando de R2, cuando pasamos a R3 tendrémos que agregar el eje Z, cuando pasamos de R dimensión > 3 no podrémos representarlos de ninguna manera posible en este universo.
+Cuando hablamos de R3 cada vector esta asociado a una tripleta de números.
+El primero nos dirá cuando debemos movernos en el eje X, el segundo en el eje Y y por último, el tercero, en el eje Z:
+![image](https://github.com/user-attachments/assets/73af29b2-d5b3-45e7-a3bb-3272ce6d97f9)
+
+
 
 
 
