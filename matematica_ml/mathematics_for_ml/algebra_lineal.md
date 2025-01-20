@@ -8,7 +8,13 @@ Siendo las matemáticas el *lenguaje de dios* debemos casi obligatoriamente form
 Los vectores existen en la programación, física, matemática y quizas en otras areas del conocimiento que desconozco.
 
 En el caso del algebra nos referiremos a los vectores como letras con una flecha arriba llamados ***"vectores geométricos"***.
+
                                                ![image](https://github.com/user-attachments/assets/1f130eaa-c69f-43e5-900b-ff677b661685)
+                                               
+Estos pueden tener un ***R*** dimensión, por ejemplo:                               
+                                               
+                                              ![image](https://github.com/user-attachments/assets/b2da0754-194b-4d64-b373-0115968be6a4)
+
 
 
 Falta mucho, independientemente de esto, complementaré mi lectura con el siguiente canal de YouTube: https://www.youtube.com/watch?v=0Ndnzx6AyaA&list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA
