@@ -28,6 +28,8 @@ En el contexto matemático un vector es un objeto que tiene magnitud y una direc
 Geometricamente hablando en R2 podemos decir que se ve de la siguiente manera:
 ![image](https://github.com/user-attachments/assets/9580d583-c7a7-4f8c-8cb6-6105fe87e5cc)
 
+Al ser un espacio bidimensional debemos tener un punto de anclaje de donde saldrá nuestro vector, el primero nos dirá que tanto nos tenemos que mover a lo largo del eje X, el segundo del Y, y hacia ahí irá el vector, siendo su distancia su modulo,
+siendo su modulo la raíz cuadrada de la sumatoria de sus elementos, cada uno de estos estando al cuadrado.
 
 
 
