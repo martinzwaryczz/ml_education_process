@@ -22,6 +22,7 @@ Si un vector es del mismo ***R*** se pueden sumar, restar, multiplicar cada elem
 Considero que ya se hacer estas operaciones, de hecho cualquier persona de manera mecánica las puede hacer, no es el objetivo contemplar el como se hacen estas operaciones sino entender su vista e interpretación geométrica.
 
 > **¿Qué es, cartesiana y geometricamente, un vector?**
+
 Así sea más programador que matemático, usarémos el vector en el contexto matemático.
 En el contexto matemático un vector es un objeto que tiene magnitud y una dirección, tal como se ve en la imagen de arriba.
 Geometricamente hablando en R2 podemos decir que se ve de la siguiente manera:
