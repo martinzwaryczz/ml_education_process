@@ -1,4 +1,7 @@
 # Algebra lineal
+
+> Previo a cualquier apunte quiero aclarar que, a mi criterio según el orden que inicialmente aprendí los temas, el libro esta algo desordenado en lo que temas amerita, por lo que volcaré los conceptos en el orden que consideré que me sea claro.
+
 Cuando hablamos del algebra lineal nos referimos al estudio de vectores y - en palabras del libro - ciertas reglas para manipularlos.
 
 Cuando queremos formalizar de manera intuitiva ciertos conceptos es una buena estrategia hablar con cierto vocabulario y usar ciertos simbolos para hablar de los diferentes objetos que componen el tema de estudio.
