@@ -53,6 +53,10 @@ Según el autor o fuente el algebra gira entorno a la suma de vectores y multipl
 
 Al los vectores genericos que apuntan al eje x, y, z respetivamente se les llama, *i,j y k*. Se podría decir que apuntan 1 unidad y se mueven (Xn, Yn, Zn) valores en el espacio Rn en cuestión, se les llama *"base"*.
 
+Si tomamos el punto de anclaje y desde dicho punto asignamos a gusto valores a nuestros vectores estarémos hablando de una *combinación líneal*:
+
+![image](https://github.com/user-attachments/assets/2f64af83-cd48-4215-bfeb-357cf369cb05)
+
 
 
 
