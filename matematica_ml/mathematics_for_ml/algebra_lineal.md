@@ -36,6 +36,23 @@ Cuando hablamos de R3 cada vector esta asociado a una tripleta de números.
 El primero nos dirá cuando debemos movernos en el eje X, el segundo en el eje Y y por último, el tercero, en el eje Z:
 ![image](https://github.com/user-attachments/assets/73af29b2-d5b3-45e7-a3bb-3272ce6d97f9)
 
+Cada vector tiene su único par de números y cada par de números a su vez su único vector, así como cada vector tiene su modulo.
+Podrémos sumar vectores y multiplicarlos por un escalar, **aunque esta ultima no es conmutativa**, mucho cuidado:
+
+![image](https://github.com/user-attachments/assets/a0b9fcd3-6a13-45d5-a49f-e6fa575447c1)
+
+En terminos genericos:
+
+![image](https://github.com/user-attachments/assets/e2a11154-646e-414a-abaa-915c840be48a)
+
+Cuando hablamos de un escalar:
+
+![image](https://github.com/user-attachments/assets/fcf68d71-4f7a-4efc-aa10-4b295cdbd293)
+
+Según el autor o fuente el algebra gira entorno a la suma de vectores y multiplicación de un escalar por vectores. 
+
+Al los vectores genericos que apuntan al eje x, y, z respetivamente se les llama, *i,j y k*. Se podría decir que apuntan 1 unidad y se mueven (Xn, Yn, Zn) valores en el espacio Rn en cuestión, se les llama *"base"*.
+
 
 
 
