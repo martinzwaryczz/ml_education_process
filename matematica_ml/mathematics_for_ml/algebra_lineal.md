@@ -5,4 +5,4 @@ Luego de terminar la lectura e intento de compresión de los conpcetos del capit
 Es importante no solo tener las cuentas hechas, sino que también entender geometricamente que se tiene a la vista, los sets de miles de datos no son interpretables leyendolos línea por línea, sino que puestos gráficamente.
 Cabe aclarar que no me basaré en el orden que proporciona el índice, no se me hizo viable, pero los temas a ver serán los mismos, con los mismos procedimientos.
 
-                                      
+Los ejercicios si que los realizaré tal cual estan escritos, no por un tema de no poder traducirlos, sino para ejercitar las diferentes maneras de plantear lo mismo que quizás en países no hispanohablantes sean diferentes.                                  
