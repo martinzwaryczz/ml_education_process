@@ -57,6 +57,8 @@ Si tomamos el punto de anclaje y desde dicho punto asignamos a gusto valores a n
 
 ![image](https://github.com/user-attachments/assets/2f64af83-cd48-4215-bfeb-357cf369cb05)
 
+Lo mismo pasa con los planos en R3.
+
 
 
 
