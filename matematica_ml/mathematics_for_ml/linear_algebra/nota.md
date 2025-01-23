@@ -1,3 +1,3 @@
-Tengo que ver como exportar correctamente de Obsidian a PDF dado que se ve re mal.
+Tengo que ver como exportar correctamente de Obsidian a PDF dado que se ve re mal, ya estan terminados los apuntes.
 
-Faltan: vectores, espacios vectoriales, sistema de ecuaciones y como resolverlos SIN DETERMINANTE, los determinantes se ven más adelante.
+El único tema en el que me siento algo inseguro es en transformacionesl líneales, más que nada por lo abstracto que son: se pueden ver los espacios vectoriales pero hay que imaginar en parte bastante
