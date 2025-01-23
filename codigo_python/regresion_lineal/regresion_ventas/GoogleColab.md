@@ -13,4 +13,6 @@ Instanciar un LinearRegression() y seguir con el procedimiento.
 
 Hecho y comprendido esto simplificar todo en una funcion que reciba *variables_independientes y calcule si su relación líneal es o no buena.
 
-# Ejercicio ya resuelto: https://colab.research.google.com/drive/1-Zf7FxQTUE41zw1CunSxjn3EXT_4T0vi?usp=sharing
+# Ejercicio ya resuelto: 
+
+https://colab.research.google.com/drive/1-Zf7FxQTUE41zw1CunSxjn3EXT_4T0vi?usp=sharing
