@@ -1,36 +1,23 @@
 # Proyectos básicos de aprendizaje automático con sklearn
 
 ## PCA (Análisis de Componentes Principales)
-1. **Reducción de dimensionalidad de un conjunto de datos de iris**
-   - Usar PCA para reducir a 2 componentes principales y graficar los datos.
-
-2. **Clasificación con PCA**
-   - Aplicar PCA para reducir dimensionalidad en un conjunto de datos de dígitos y entrenar un modelo de clasificación.
-
-3. **Visualización 3D de datos de vino**
+1. **Visualización 3D de datos de vino**
    - Usar PCA para reducir a 3 componentes principales y graficar en 3D.
 
-4. **PCA con normalización previa**
+2. **PCA con normalización previa**
    - Estandarizar datos y luego aplicar PCA en un conjunto de datos.
 
-5. **Reconstrucción de datos después de PCA**
+3. **Reconstrucción de datos después de PCA**
    - Reducir a 2 componentes y reconstruir datos para evaluar pérdida de información.
 
-6. **Explicación de varianza acumulada**
+4. **Explicación de varianza acumulada**
    - Graficar la varianza explicada acumulada en datos de cáncer de mama.
 
-7. **PCA en imágenes**
+5. **PCA en imágenes**
    - Aplicar PCA para comprimir imágenes y visualizarlas.
 
-8. **Detección de anomalías con PCA**
+6. **Detección de anomalías con PCA**
    - Usar PCA para detectar anomalías en un conjunto de datos.
-
-9. **Clusterización después de PCA**
-   - Reducir dimensionalidad con PCA y aplicar k-means para agrupar datos.
-
-10. **Comparación de PCA y t-SNE**
-    - Comparar PCA con t-SNE en un conjunto de datos visualizado.
-
 ---
 
 ## Regresión Lineal
