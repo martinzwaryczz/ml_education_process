@@ -72,16 +72,13 @@
 6. **Curva ROC**
    - Graficar y analizar la curva ROC.
 
-7. **Regularización (L1 vs L2)**
-   - Comparar el impacto de diferentes tipos de regularización.
-
-8. **Clasificación de flores con datos de iris**
+7. **Clasificación de flores con datos de iris**
    - Crear un modelo basado en características del conjunto de datos.
 
-9. **Detección de fraude**
+8. **Detección de fraude**
    - Identificar transacciones fraudulentas en un conjunto de datos.
 
-10. **Predicción de resultados deportivos**
+9. **Predicción de resultados deportivos**
     - Usar datos históricos para predecir el resultado de juegos.
 
 ---
