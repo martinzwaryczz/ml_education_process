@@ -16,11 +16,11 @@ Con esta base iré realizando este repositorio, tendrá tanto código como teor�
 Trataré de ser lo más profesional posible con el vocabulario, pero el perfeccionismo es enemigo de progreso por lo que inevitablemente en ciertas ocasiones es probable que no haya usado las palabras correctas en ciertas explicaciones de ciertos temas, sin embargo los conceptos están.
 ![image](https://github.com/user-attachments/assets/d6db6347-3a8d-4bc2-918d-98b9ecb96683)
 
-Una vez terminados las dos guías introductorias a Python y los ejercicios que combinan librerias útiles realizaré los siguientes ejercicios de ML: https://www.projectpro.io/article/top-10-machine-learning-projects-for-beginners-in-2021/397
-# Temas a revisar *(20/01/2025)*
+Una vez terminados las dos guías introductorias a Python y los ejercicios que combinan librerias útiles realizaré diferentes ejercicios de ML, algunos con ejercicios sacados de la universidad, otros con los de los mismos datasets que ofrece stklearn, otros de tutoriales de YouTube, otros
+de Kaggle.
+Los conceptos de ML y redes neuronales que quiero aprender son los siguientes:
+![Imagen de WhatsApp 2025-01-25 a las 22 42 51_c15c9eea](https://github.com/user-attachments/assets/d5c4621f-eee5-40d6-a31c-5e4d71b85553)
+![Imagen de WhatsApp 2025-01-25 a las 22 42 51_42e2aaa4](https://github.com/user-attachments/assets/63348bc8-b86a-46d9-a94e-7a686b5f9a3b)
 
-De que manera llevar a un resumen no muy resumido los temas de mathematics for machine learning, en el caso de los vectores pasa de explicar que es un vector a que es un sistema de ecucaciones, de ahí a que es una matriz, de que es una matriz a como usarlas para llevar a cabo sistemas de 
-ecuaciones y de ahí retoma espacios vectoriales, quizás debería leer todo el capítulo (a fin de cuentas son temas que ya vi en la facultad), y luego ver de que manera reorganizo el contenido, sin perder la capacidad de tratar de entender la interpretación geométrica de los temas, que es lo que 
-verdaderamente creo que me falta, cuentas matemáticas hace cualquiera, entender que se hace es otro tema.
 
-Transformaciones líneales por ejemplo, es un tema que amerita practicamente volver a verlo, hacerlas y encontrar su matriz asociada era más que mecánico, pero entender que pasaba no y es importante para modelos de ML.
+
