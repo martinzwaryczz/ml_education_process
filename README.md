@@ -18,6 +18,7 @@ Trataré de ser lo más profesional posible con el vocabulario, pero el perfecci
 
 Una vez terminados las dos guías introductorias a Python y los ejercicios que combinan librerias útiles realizaré diferentes ejercicios de ML, algunos con ejercicios sacados de la universidad, otros con los de los mismos datasets que ofrece stklearn, otros de tutoriales de YouTube, otros
 de Kaggle.
+
 Los conceptos de ML y redes neuronales que quiero aprender son los siguientes:
 ![Imagen de WhatsApp 2025-01-25 a las 22 42 51_c15c9eea](https://github.com/user-attachments/assets/d5c4621f-eee5-40d6-a31c-5e4d71b85553)
 ![Imagen de WhatsApp 2025-01-25 a las 22 42 51_42e2aaa4](https://github.com/user-attachments/assets/63348bc8-b86a-46d9-a94e-7a686b5f9a3b)
