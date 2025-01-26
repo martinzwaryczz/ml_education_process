@@ -22,7 +22,7 @@
 
 ## Regresión Lineal
 1. **Predecir precios de casas**
-   - Entrenar un modelo para predecir precios basado en características como tamaño y número de habitaciones.
+   - Entrenar un modelo para predecir precios basado en el tamaño y número de habitaciones.
 
 2. **Relación entre horas de estudio y calificaciones**
    - Crear un modelo para analizar la correlación.
@@ -31,25 +31,22 @@
    - Predecir ventas basándose en presupuesto publicitario.
 
 4. **Regresión lineal múltiple**
-   - Usar múltiples variables predictoras en datos de salud.
+   - Usar múltiples variables predictoras en datos de salud, tales como nivel de actividad diario, calorias consumidas y peso como variable dependiente.
 
-5. **Comparación con regresión polinómica**
-   - Comparar rendimiento entre regresión lineal y polinómica.
+5. **Error cuadrático medio**
+   - Calcular y analizar el error cuadrático medio en predicciones de cualquier modelo previamente hecho, escribir conclusiones.
 
-6. **Error cuadrático medio**
-   - Calcular y analizar el error cuadrático medio en predicciones.
-
-7. **Gráfico de residuales**
+6. **Gráfico de residuales**
    - Crear un gráfico de residuales para evaluar la calidad del modelo.
 
-8. **Impacto de características estandarizadas**
-   - Analizar cómo afecta la estandarización a la regresión lineal.
+7. **Impacto de características normalizadas**
+   - Analizar cómo afecta la normalizadas a la regresión lineal.
 
-9. **Predecir consumo energético**
+8. **Predecir consumo energético**
    - Modelo para predecir consumo basado en temperatura y hora del día.
 
-10. **Cross-validation en regresión lineal**
-    - Evaluar el modelo con validación cruzada.
+9. **Cross-validation en regresión lineal**
+    - Evaluar el modelo del punto 3 con validación cruzada.
 
 ---
 
@@ -70,20 +67,18 @@
    - Calcular métricas clave para evaluar el modelo.
 
 6. **Curva ROC**
-   - Graficar y analizar la curva ROC.
+   - Graficar y analizar la curva ROC, dar en el archivo adjunto una definición de qué es una curva ROC.
 
 7. **Clasificación de flores con datos de iris**
-   - Crear un modelo basado en características del conjunto de datos.
-
-8. **Detección de fraude**
-   - Identificar transacciones fraudulentas en un conjunto de datos.
+   - Crear un modelo basado en características del conjunto de datos, investigar sobre dicho dataset.
 
 9. **Predicción de resultados deportivos**
-    - Usar datos históricos para predecir el resultado de juegos.
+    - Usar datos históricos para predecir el resultado de juegos. **desarrollar más este punto, la consigna**
 
 ---
 
-## k-Vecinos más Cercanos (KNN)
+## k-Vecinos más Cercanos (KNN) - De este punto en adelante son ejercicios que no puedo decir nada, no llegue aún a estos modelos por lo que dejo lo que según chatgtp es valido como ejercicios básicos
+
 1. **Clasificación de flores (Iris)**
    - Entrenar un modelo KNN para clasificar especies de flores.
 
