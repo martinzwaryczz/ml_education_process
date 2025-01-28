@@ -8,8 +8,8 @@ En caso de que algún IT Recluter, personal de RRHH, usuario interesado en apren
 
 * Formar una buena base de pensamiento lógico en la facultad.
 * Aprender a programar, no programación.
-* Aprender Python
-* Aprender en la universidad algebra y geometría analítica, análisis matemático I, probabilidad y estadística. Cabe aclarar que me queda pendiente análisis matemático II para así entender que es el descenso de gradiente
+* Aprender Python.
+* Aprender en la universidad algebra y geometría analítica, análisis matemático I, probabilidad y estadística. Cabe aclarar que me queda pendiente análisis matemático II para así entender que es el descenso de gradiente.
 
 Con esta base iré realizando este repositorio, tendrá tanto código como teoría principalmente orientada a la matemática requerida que no es poca, pero es super interesante.
 
