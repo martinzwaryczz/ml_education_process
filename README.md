@@ -23,5 +23,7 @@ Los conceptos de ML y redes neuronales que quiero aprender son los siguientes:
 ![Imagen de WhatsApp 2025-01-25 a las 22 42 51_c15c9eea](https://github.com/user-attachments/assets/d5c4621f-eee5-40d6-a31c-5e4d71b85553)
 ![Imagen de WhatsApp 2025-01-25 a las 22 42 51_42e2aaa4](https://github.com/user-attachments/assets/63348bc8-b86a-46d9-a94e-7a686b5f9a3b)
 
-
-
+Para esto usaré también ciertos vídeos de freeCodeCamp.org:
+https://www.youtube.com/watch?v=pqNCD_5r0IU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=14
+https://www.youtube.com/watch?v=0B5eIE_1vpU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=15
+https://www.youtube.com/watch?v=NWONeJKn6kc&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=16
