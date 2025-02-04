@@ -31,7 +31,7 @@
    - Predecir ventas basándose en presupuesto publicitario.
 
 4. **Regresión lineal múltiple**
-   - Usar múltiples variables predictoras en datos de salud, tales como nivel de actividad diario, calorias consumidas y peso como variable dependiente.
+   - Usar múltiples variables predictoras en datos de salud: nivel de actividad diario, calorias consumidas y peso como variable dependiente.
 
 5. **Error cuadrático medio**
    - Calcular y analizar el error cuadrático medio en predicciones de cualquier modelo previamente hecho, escribir conclusiones.
@@ -39,13 +39,7 @@
 6. **Gráfico de residuales**
    - Crear un gráfico de residuales para evaluar la calidad del modelo.
 
-7. **Impacto de características normalizadas**
-   - Analizar cómo afecta la normalizadas a la regresión lineal.
-
-8. **Predecir consumo energético**
-   - Modelo para predecir consumo basado en temperatura y hora del día.
-
-9. **Cross-validation en regresión lineal**
+7. **Cross-validation en regresión lineal**
     - Evaluar el modelo del punto 3 con validación cruzada.
 
 ---
@@ -54,36 +48,14 @@
 1. **Clasificación de correos electrónicos (spam/no spam)**
    - Entrenar un modelo en un conjunto de datos de correos.
 
-2. **Diagnóstico de diabetes**
-   - Clasificar pacientes con o sin diabetes basado en características médicas.
-
-3. **Clasificación de imágenes en blanco y negro**
+2. **Clasificación de imágenes en blanco y negro**
    - Usar regresión logística para clasificar imágenes simples.
-
-4. **Predicción de aprobación de préstamos**
-   - Determinar si un préstamo será aprobado.
-
-5. **Evaluación de métricas (precision, recall, F1)**
-   - Calcular métricas clave para evaluar el modelo.
-
-6. **Curva ROC**
-   - Graficar y analizar la curva ROC, dar en el archivo adjunto una definición de qué es una curva ROC.
-
-7. **Clasificación de flores con datos de iris**
-   - Crear un modelo basado en características del conjunto de datos, investigar sobre dicho dataset.
-
-9. **Predicción de resultados deportivos**
-    - Usar datos históricos para predecir el resultado de juegos. **desarrollar más este punto, la consigna**
-
 ---
 
-## k-Vecinos más Cercanos (KNN) - De este punto en adelante son ejercicios que no puedo decir nada, no llegue aún a estos modelos por lo que dejo lo que según chatgtp es valido como ejercicios básicos
+## k-Vecinos más Cercanos (KNN) 
 
 1. **Clasificación de flores (Iris)**
    - Entrenar un modelo KNN para clasificar especies de flores.
-
-2. **Elección del mejor valor de K**
-   - Graficar la precisión del modelo en función del valor de K.
 
 3. **KNN para regresión**
    - Predecir valores continuos con KNN en datos simples.
@@ -91,60 +63,36 @@
 4. **Detección de outliers**
    - Usar KNN para identificar puntos atípicos.
 
-5. **Comparación con otros clasificadores**
-   - Comparar KNN con regresión logística en precisión.
+5. **Clasificación de dígitos escritos a mano**
+   - Usar KNN en un conjunto de datos de imágenes de dígitos. (es un ejercicio interesante, ver vídeos ya que a su vez es algo complejo)
 
-6. **Clasificación de dígitos escritos a mano**
-   - Usar KNN en un conjunto de datos de imágenes de dígitos.
+6. **Distancia ponderada en KNN**
+   - Implementar un modelo KNN con distancias ponderadas teniendo en cuenta: edad, prestamo, si pago o no.
 
-7. **Predicción de aprobación de préstamos**
-   - Modelo basado en características del cliente.
-
-8. **Distancia ponderada en KNN**
-   - Implementar un modelo KNN con distancias ponderadas.
-
-9. **Validación cruzada en KNN**
+7. **Validación cruzada en KNN**
    - Evaluar el rendimiento del modelo con validación cruzada.
-
-10. **Clusterización después de KNN**
-    - Aplicar KNN después de agrupar datos con k-means.
 
 ---
 
 ## K-Means
-1. **Clusterización de clientes**
-   - Agrupar clientes basado en su comportamiento de compra.
-
-2. **Clusterización de especies de flores (Iris)**
+1. **Clusterización de especies de flores (Iris)**
    - Usar k-means para agrupar flores y compararlo con las etiquetas reales.
 
-3. **Elección del número de clusters**
-   - Graficar la inercia para determinar el mejor número de clusters.
+2. **Elección del número de clusters**
+   - Graficar la inercia para determinar el mejor número de clusters, usar cualquier otro ejemplo que no sea el de flores Iris, así no usemos su etiqueta.
 
-4. **Clusterización en datos 3D**
+3. **Clusterización en datos 3D**
    - Visualizar clusters en tres dimensiones.
 
-5. **Agrupación de datos de salud**
+4. **Agrupación de datos de salud**
    - Dividir pacientes en grupos basado en características médicas.
 
-6. **Clusterización en imágenes**
-   - Usar k-means para segmentar imágenes en diferentes regiones.
-
-7. **K-means con inicialización aleatoria**
-   - Comparar resultados de diferentes inicializaciones.
-
-8. **Evaluación con índice de Silhouette**
+5. **Evaluación con índice de Silhouette**
    - Calcular y analizar el índice de Silhouette para evaluar los clusters.
-
-9. **Clusterización de transacciones**
-   - Agrupar transacciones bancarias para identificar patrones.
-
-10. **Clusterización y reducción de dimensionalidad**
-    - Combinar PCA con k-means para agrupar datos.
 
 ---
 
-## Teste de Hipótesis
+## Test de Hipótesis (De momento no vi que es el test de hipotesis y por paros aún no lo ví en la facultad)
 1. **Comparación de medias (t-test)**
    - Evaluar si dos grupos tienen medias significativamente diferentes.
 
@@ -218,26 +166,20 @@
    - Graficar el árbol de decisión.
 
 3. **Pruning de árboles**
-   - Implementar poda para reducir el sobreajuste.
+   - Implementar poda para reducir el sobreajuste, buscar otro ejemplo que no sea del de flores de Iris.
 
 4. **Regresión con árboles**
-   - Crear un modelo de regresión basado en árboles.
+   - Crear un modelo de regresión basado en árboles, buscar otro ejemplo que no sea del de flores de Iris y repasar árboles de matemática discreta.
 
-5. **Importancia de características**
-   - Analizar las características más importantes del modelo.
-
-6. **Clasificación de dígitos escritos a mano**
+5. **Clasificación de dígitos escritos a mano**
    - Usar árboles para clasificar imágenes de dígitos.
 
-7. **Validación cruzada con árboles**
-   - Evaluar el rendimiento del modelo con validación cruzada.
+6. **Validación cruzada con árboles**
+   - Evaluar el rendimiento del modelo anterior con validación cruzada.
 
-8. **Comparación con bosques aleatorios**
-   - Comparar el rendimiento de un árbol con un bosque aleatorio.
-
-9. **Optimización de hiperparámetros**
+7. **Optimización de hiperparámetros**
    - Usar GridSearchCV para optimizar la profundidad y el número mínimo de muestras.
 
-10. **Árbol de decisión con datos ruidosos**
+8. **Árbol de decisión con datos ruidosos**
     - Entrenar un árbol en un conjunto de datos con ruido para evaluar su robustez.
 
