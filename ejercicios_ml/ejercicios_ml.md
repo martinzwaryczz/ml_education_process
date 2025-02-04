@@ -182,4 +182,8 @@
 
 8. **Árbol de decisión con datos ruidosos**
     - Entrenar un árbol en un conjunto de datos con ruido para evaluar su robustez.
+  
+---
+
+## Bosques aleatorios
 
