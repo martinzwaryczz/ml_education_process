@@ -68,6 +68,7 @@
     1. **Emitir un listado ordenado por año detallando para cada año la cantidad de inscriptos por grado**
     2. **Emitir un listado ordenado por grado detallando para cada grado la cantidad de inscriptos por año**
 41. Implementar la función: **busquedaSecuencial(int [] arreglo, int valorBuscado)** que recibe un arreglo de enteros y un valor a buscar, y devuelve la posición del valor buscado, o -1 si el valor no se encuentra
+
 Hasta acá fueron todos ejercicios sacados del siguiente repostorio: https://github.com/ppandomail/poo/blob/main/doc/02-intro-loo-ejercicios.md.
 
 
