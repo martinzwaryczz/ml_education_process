@@ -41,7 +41,7 @@ class Nota {
     public void recuperar(int nuevoValor) { }
 ```
 
-1. Defina una clase Punto que tendrá dos atributos, de tipo double, x e y, que representarán las coordenadas del punto dentro del plano. Implemente los siguientes métodos:
+2. Defina una clase Punto que tendrá dos atributos, de tipo double, x e y, que representarán las coordenadas del punto dentro del plano. Implemente los siguientes métodos:
 
     ```java
     public boolean estaSobreElEjeX() {}
@@ -52,13 +52,13 @@ class Nota {
     public double distancia(Punto p) {}
     ```
 
-1. Implementar una clase que modele un círculo, del que se desea manipular (obtener y cambiar):
+2.1. Implementar una clase que modele un círculo, del que se desea manipular (obtener y cambiar):
     * radio
     * diámetro
     * perímetro
     * área
 
-1. Implementar una clase que modele una corona circular utilizando la clase Circulo desarrollada previamente. Se desea manipular (obtener y cambiar):
+2.2. Implementar una clase que modele una corona circular utilizando la clase Circulo desarrollada previamente. Se desea manipular (obtener y cambiar):
     * radio interior
     * radio exterior
     * perímetro interior
