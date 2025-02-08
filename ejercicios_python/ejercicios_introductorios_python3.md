@@ -9,3 +9,5 @@
 9. Escribir una función que reciba un número y diga si el mismo es palindromo, tener en cuenta el signo. [(Recurso interesante para este ejercicio)]([url](https://www.w3schools.com/python/python_strings_slicing.asp))
 10. Escribir una función que reciba una frase y devuelva la longitud de la ultima palabra.
 11. Escribir una función que reciba una lista y encuentre el prefijo más grande en sus elementos si es que existen.
+12. Dado una lista con [0, n] elementos del 0 a n siendo estos la susesión de números de 1 en 1 positivos imprimir por pantalla cual es el número faltante, en caso de no haber imprimir -1-
+13. Dado una lista con valores de cualquier tipo remover los elementos duplicados y devuelver una lista, tratar de no usar set().
