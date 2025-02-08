@@ -11,3 +11,4 @@
 11. Escribir una función que reciba una lista y encuentre el prefijo más grande en sus elementos si es que existen.
 12. Dado una lista con [0, n] elementos del 0 a n siendo estos la susesión de números de 1 en 1 positivos imprimir por pantalla cual es el número faltante, en caso de no haber imprimir -1.
 13. Dado una lista con valores de cualquier tipo remover los elementos duplicados y devuelver una lista, tratar de no usar set().
+14. Dada una lista y un valor mayor o igual a 0 buscar el mismo y retornar su posición dentro de esta, en caso de que no este presente este número retornar -1.
