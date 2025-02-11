@@ -75,20 +75,15 @@
 ---
 
 ## K-Means
-1. **Clusterización de especies de flores (Iris)**
-   - Usar k-means para agrupar flores y compararlo con las etiquetas reales.
-
-2. **Elección del número de clusters**
-   - Graficar la inercia para determinar el mejor número de clusters, usar cualquier otro ejemplo que no sea el de flores Iris, así no usemos su etiqueta.
-
-3. **Clusterización en datos 3D**
-   - Visualizar clusters en tres dimensiones.
-
-4. **Agrupación de datos de salud**
-   - Dividir pacientes en grupos basado en características médicas.
-
-5. **Evaluación con índice de Silhouette**
-   - Calcular y analizar el índice de Silhouette para evaluar los clusters.
+1. **Agrupamiento de Clientes según su Comportamiento de Compra**
+   Tienes un dataset de clientes de una tienda en línea con las siguientes características:
+      - ID del Cliente 
+      - Edad
+      - Ingresos Anuales ($)
+      - Gasto Promedio Mensual ($)
+      - Número de Compras al Año
+        
+Aplica **K-Means** para segmentar a los clientes en grupos según su comportamiento de compra.
 
 ---
 
