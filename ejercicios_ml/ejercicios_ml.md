@@ -76,7 +76,9 @@
 
 ## K-Means
 1. **Agrupamiento de Clientes según su Comportamiento de Compra**
+   
    Tienes un dataset de clientes de una tienda en línea con las siguientes características:
+   
       - ID del Cliente 
       - Edad
       - Ingresos Anuales ($)
