@@ -2,7 +2,7 @@
 1. Dada una matriz pasada por parametro a la función orden_matricial(matriz) indicar el order de la matriz en cuestión.
 2. Dada una matriz de orden *nxm* indicar por parametro en la función elemento_matricial(matriz, elemento), siendo el elemento el índice de esta, en caso de que no exista lanzar un ValueError().
 3. Dadas dos matrices retornar la suma de estas.
-4. Dadas dos matrices retornar el producto de estas, recordar que el producto matricial no es conmutativo.
+4. Dadas dos matrices retornar el producto de estas, recordar que el producto matricial no es conmutativo, confimar si es posible realizar dicho producto, de ser necesario utilizar implemetaciones de código anteriormente hechas.
 5. Dada una matriz retornar su traspuesta.
 6. Dada una matriz retornar su inversa.
 7. Dada una matriz retornar el cuadrado de esta.
