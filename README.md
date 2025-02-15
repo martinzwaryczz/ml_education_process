@@ -25,8 +25,12 @@ Los conceptos de ML y redes neuronales que quiero aprender son los siguientes:
 
 Para esto usaré también ciertos vídeos de freeCodeCamp.org:
 
-https://www.youtube.com/watch?v=pqNCD_5r0IU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=14
+- https://www.youtube.com/watch?v=pqNCD_5r0IU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=14
 
-https://www.youtube.com/watch?v=0B5eIE_1vpU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=15
+- https://www.youtube.com/watch?v=0B5eIE_1vpU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=15
 
-https://www.youtube.com/watch?v=NWONeJKn6kc&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=16
+- https://www.youtube.com/watch?v=NWONeJKn6kc&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=16
+
+Algunos ejercicios los saque de vídeos de canales de Youtube, hay muchos y son más que didacticos, otros de datasets de Kaggle, otros los invente y otros de la siguiente fuente:
+
+- https://thecleverprogrammer.com/2025/01/03/40-machine-learning-projects-with-python/#google_vignette
