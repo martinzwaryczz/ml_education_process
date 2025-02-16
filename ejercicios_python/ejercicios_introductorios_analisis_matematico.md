@@ -3,4 +3,8 @@
 3. Gráficar la función anterior, en caso de que no sea continua gráficar la función y en donde no haya imagen poner un circulo.
 4. Crear la función posee_asintotas, en caso de que tenga asíntotas decir cuáles tiene y que formula o valor toman.
 5. Crear la función gráficar_funcion(funcion), debe tener gráficada la función y las correspondientes asíntotas con una línea separada por renglones. (- - -)
-6. Sigue en construcción...
+6. Crear la función derivada_de(funcion), debe retornar la función derivada.
+7. Crear la función integral_de(funcion), debe retornar la integral.
+8. Crear la función teorema_de_lagrange(funcion, intervalo), si es posible aplicar el teorema de Lagrange a dicha función realizar el gráfico correspondiente.
+9. Crear la función calc_area(funcion), retornar su calculo de area y gráficar esta.
+10. Crear la función calc_area_entre(funcion, funcion), retornar su calculo de area y gráficar esta.
