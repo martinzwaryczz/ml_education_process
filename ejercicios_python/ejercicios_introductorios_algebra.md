@@ -11,6 +11,7 @@
 ### Determinantes:
 10. Dada una matriz indicar su determinante.
 ### Sistemas de ecuaciones:
+Previo a estos ejercicios los sistemas de ecuaciones tendrán la notación: A x B = C
 11. Dado un sistema de ecuación pasado por función junto a un conjunto de soluciones indicar cuáles son y cuáles no, estos últimos podrán ser indefinidos, es decir: solucion_de(sistema, soluciones*).
 12. Clasificar un sistema de ecuaciones por función con clasificar_sistema(sistema) con el teorema de Rouché-Fröbenius.
 ### Vectores algebráicos: 
