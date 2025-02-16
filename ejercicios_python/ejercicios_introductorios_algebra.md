@@ -11,8 +11,8 @@
 ### Determinantes:
 10. Dada una matriz indicar su determinante.
 ### Sistemas de ecuaciones:
-11. Dado un sistema de ecuación pasado por función junto a un conjunto de soluciones indicar cuáles son y cuáles no, estos últimos podrán ser indefinidos, es decir: solucion_de(sistema, soluciones*)
-12. Clasificar un sistema de ecuaciones por función con clasificar_sistema(sistema)
+11. Dado un sistema de ecuación pasado por función junto a un conjunto de soluciones indicar cuáles son y cuáles no, estos últimos podrán ser indefinidos, es decir: solucion_de(sistema, soluciones*).
+12. Clasificar un sistema de ecuaciones por función con clasificar_sistema(sistema) con el teorema de Rouché-Fröbenius.
 ### Vectores algebráicos: 
 13. Calcular las componentes y módulo de un vector pasado por una función componente_y_modulo(origen, extremo), se podrán pasar como maximo 3 valores, gráficar estos e incluir en la leyenda del gráfico las componentes y el módulo.
 14. Calcular diferentes operaciones matemáticas con vectores, en caso de que sea imposible calcular la misma (un vector por un escalar, una resta o suma de un vector y un escalar) lanzar un ValueError().
