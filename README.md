@@ -30,11 +30,3 @@ Para esto usaré también ciertos vídeos de freeCodeCamp.org:
 - https://www.youtube.com/watch?v=0B5eIE_1vpU&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=15
 
 - https://www.youtube.com/watch?v=NWONeJKn6kc&list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s&index=16
-
-### Actualización 12/04/2024
-
-Dado que me siento algo estancando en mi proceso de aprendizaje de ML, DL y DS dejaré constancia de una serie de vídeos que encontré para que no se pierdan, paralelamente a estar guardando estos vídeos me encuentro cursando la matería "Análisis matemático II" en donde estoy viendo el fundamento matemático restante que me falta para comprender el algoritmo de descenso del gradiente y poder visualizar con más criterio datos en 3 dimensiones.
-
-- https://www.youtube.com/watch?v=dGtDTjYs3xc&list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S
-
-- https://www.youtube.com/watch?v=19LQRx78QVU&list=PLgNJO2hghbmiXg5d4X8DURJP9yv9pgjIu
